@@ -22,3 +22,5 @@ CLAUDE.md
 people/*/avatar_old.jpg
 people/ngo_lena/LeNa.jpeg
 people/gooi_ian/ian.jpg
+
+**/*.quarto_ipynb
