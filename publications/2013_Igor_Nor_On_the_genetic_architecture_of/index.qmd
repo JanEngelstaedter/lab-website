@@ -1,0 +1,16 @@
+---
+title: "On the genetic architecture of cytoplasmic incompatibility: inference from phenotypic data"
+date: 2013-01-01
+author: ["Igor Nor", "Jan Engelstädter", "Olivier Duron", "Max Reuter", "Marie-France Sagot", "Sylvain Charlat"]
+publication: "The American Naturalist, **182**, _E15--24_ (2013)."
+categories: ["group"]
+url_source: https://doi.org/10.1086/670612
+url_preprint: 
+journ: "The American Naturalist"
+volume: 182
+issue: 1
+page: E15--24
+year: 2013
+#image: featured.gif
+pub_number: 36
+---

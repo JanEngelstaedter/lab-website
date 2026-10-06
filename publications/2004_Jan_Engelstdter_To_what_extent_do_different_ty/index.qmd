@@ -1,0 +1,16 @@
+---
+title: "To what extent do different types of sex ratio distorters interfere?"
+date: 2004-01-01
+author: ["Jan Engelstädter", "Horácio Montenegro", "Gregory D. D. Hurst"]
+publication: "Evolution, **58**, _2382--2386_ (2004)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.0014-3820.2004.tb01612.x
+url_preprint: 
+journ: "Evolution"
+volume: 58
+issue: 10
+page: 2382--2386
+year: 2004
+#image: featured.gif
+pub_number: 1
+---

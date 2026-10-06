@@ -1,0 +1,16 @@
+---
+title: "Host-parasite coevolutionary dynamics with generalized success/failure infection genetics"
+date: 2015-01-01
+author: ["Jan Engelstädter"]
+publication: "The American Naturalist, **185**, _E117--129_ (2015)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1086/680476
+url_preprint: 
+journ: "The American Naturalist"
+volume: 185
+issue: 5
+page: E117--129
+year: 2015
+image: featured.png
+pub_number: 43
+---

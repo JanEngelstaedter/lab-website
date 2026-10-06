@@ -1,0 +1,61 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!publications/_template/"
+    - "!people/_template/"
+
+
+website:
+  title: "Engelstädter Lab"
+  description: "Microbial evolutionary dynamics: the Engelstädter Lab at The University of Queensland, Brisbane, Australia."
+  # TODO: set site-url and repo-url once the hosting address and GitHub repo exist
+  # site-url: ""
+  # repo-url: ""
+  favicon: images/favicon.png  # generated from images/favicon.svg
+  # google-analytics: ""  # old ID belonged to the Masiello Group
+  twitter-card: true
+  #back-to-top-navigation: true
+  page-navigation: false
+  search: true
+  page-footer: 
+    background: "#F6F5F3"
+    left: "© 2026 Engelstädter Lab"
+    right: '[{{< fa envelope >}}](mailto:j.engelstaedter@uq.edu.au){title="Email" aria-label="Email"} &nbsp; [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=sOfcm2QAAAAJ){title="Google Scholar" aria-label="Google Scholar"} &nbsp; [{{< fa brands github >}}](https://github.com/JanEngelstaedter){title="GitHub" aria-label="GitHub"}'
+
+  navbar:
+    search: true
+    logo: images/favicon.png  # shown to the right of the title (reordered in styles/custom.scss)
+    logo-alt: ""  # decorative: the lab name is right next to it
+    background: "#F6F5F3"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: people/index.qmd
+        text: People
+      - href: publications/index.qmd
+        text: Publications
+      - href: code/index.qmd
+        text: Code
+      - href: join/index.qmd
+        text: Join us
+      - href: contact/index.qmd
+        text: Contact
+
+format:
+  html:
+    theme: 
+      - styles/custom.scss
+      - yeti
+    mainfont: Nunito Sans
+    toc: true
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+    resources:
+      - images
+
+
+

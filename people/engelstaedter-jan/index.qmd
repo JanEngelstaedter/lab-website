@@ -1,0 +1,56 @@
+---
+title: &TITLE Jan Engelstädter
+last: Engelstädter
+first: Jan
+people_group: "pi"
+email: "j.engelstaedter@uq.edu.au"
+subtitle: "Associate Professor"
+description: ""
+affiliation: The University of Queensland
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:j.engelstaedter@uq.edu.au 
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.com/citations?hl=en&user=sOfcm2QAAAAJ
+    - icon: github
+      text: GitHub 
+      href: https://github.com/JanEngelstaedter
+---
+
+:::{#about}
+
+I am an evolutionary biologist broadly interested in microbial evolution, currently focusing on antibiotic resistance evolution and gene exchange in bacteria. I did my PhD with Greg Hurst at University College London, working on the endosymbiotic bacterium *Wolbachia*. After postdoctoral positions at Harvard University (with David Haig) and ETH Zurich (with Sebastian Bonhoeffer) and a junior group leader position at ETH Zurich, I moved to Australia to start my current position at The University of Queensland, where I am now an Associate Professor. I was an ARC Future Fellow from 2015 to 2019. 
+
+In addition to research, I teach into several courses at UQ:
+
+* BIOL3303: Genomics
+* SCIE3360: Data Science for Life and Environmental Scientists
+* BIOL3222: Model Organism Genetics
+
+I was Director of the Master of Quantitative Biology program at UQ (now discontinued). I was previously an Associate Editor for *Evolution* and *Proceedings of the Royal Society B*, and I’m currently a Data Editor for *Proceedings B*.
+
+:::
+
+:::{#pubs}
+:::

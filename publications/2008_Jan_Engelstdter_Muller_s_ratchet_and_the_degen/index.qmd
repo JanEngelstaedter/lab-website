@@ -1,0 +1,16 @@
+---
+title: "Muller's ratchet and the degeneration of Y chromosomes: a simulation study"
+date: 2008-01-01
+author: ["Jan Engelstädter"]
+publication: "Genetics, **180**, _957--967_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1534/genetics.108.092379
+url_preprint: 
+journ: "Genetics"
+volume: 180
+issue: 2
+page: 957--967
+year: 2008
+#image: featured.gif
+pub_number: 12
+---

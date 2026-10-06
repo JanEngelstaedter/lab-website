@@ -1,0 +1,16 @@
+---
+title: "Asexual but Not Clonal: Evolutionary Processes in Automictic Populations"
+date: 2017-01-01
+author: ["Jan Engelstädter"]
+publication: "Genetics, **206**, _993--1009_ (2017)."
+categories: ["group"]
+url_source: https://doi.org/10.1534/genetics.116.196873
+url_preprint: 
+journ: "Genetics"
+volume: 206
+issue: 2
+page: 993--1009
+year: 2017
+#image: featured.gif
+pub_number: 50
+---

@@ -1,0 +1,16 @@
+---
+title: "High incidence of the maternally inherited bacterium Cardinium in spiders"
+date: 2008-01-01
+author: ["Olivier Duron", "Gregory D. D. Hurst", "Emily A. Hornett", "James A. Josling", "Jan Engelstädter"]
+publication: "Molecular Ecology, **17**, _1427--1437_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1365-294X.2008.03689.x
+url_preprint: 
+journ: "Molecular Ecology"
+volume: 17
+issue: 6
+page: 1427--1437
+year: 2008
+#image: featured.gif
+pub_number: 16
+---

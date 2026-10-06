@@ -1,0 +1,16 @@
+---
+title: "A unifying principle for multispecies coexistence under resource fluctuations"
+date: 2025-01-01
+author: ["James A. Richardson", "Jan Engelstädter", "Andrew D. Letten"]
+publication: "Proceedings of the National Academy of Sciences, **122**, _e2424996122_ (2025)."
+categories: ["group"]
+url_source: https://www.pnas.org/doi/abs/10.1073/pnas.2424996122
+url_preprint: 
+journ: "Proceedings of the National Academy of Sciences"
+volume: 122
+issue: 24
+page: e2424996122
+year: 2025
+image: featured.png
+pub_number: 77
+---

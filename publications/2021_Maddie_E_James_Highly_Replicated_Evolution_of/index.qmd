@@ -1,0 +1,16 @@
+---
+title: "Highly Replicated Evolution of Parapatric Ecotypes"
+date: 2021-01-01
+author: ["Maddie E. James", "Henry Arenas-Castro", "Jeffrey S. Groh", "Scott L. Allen", "Jan Engelstädter", "Daniel Ortiz-Barrientos"]
+publication: "Molecular Biology and Evolution, **38**, _4805--4821_ (2021)."
+categories: ["group"]
+url_source: https://doi.org/10.1093/molbev/msab207
+url_preprint: 
+journ: "Molecular Biology and Evolution"
+volume: 38
+issue: 11
+page: 4805--4821
+year: 2021
+#image: featured.gif
+pub_number: 57
+---

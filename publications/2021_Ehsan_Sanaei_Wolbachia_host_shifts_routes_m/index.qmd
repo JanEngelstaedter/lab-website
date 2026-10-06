@@ -1,0 +1,16 @@
+---
+title: "Wolbachia host shifts: routes, mechanisms, constraints and evolutionary consequences"
+date: 2021-01-01
+author: ["Ehsan Sanaei", "Sylvain Charlat", "Jan Engelstädter"]
+publication: "Biological Reviews, **96**, _433--453_ (2021)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1111/brv.12663
+url_preprint: 
+journ: "Biological Reviews"
+volume: 96
+issue: 2
+page: 433--453
+year: 2021
+image: featured.png
+pub_number: 59
+---

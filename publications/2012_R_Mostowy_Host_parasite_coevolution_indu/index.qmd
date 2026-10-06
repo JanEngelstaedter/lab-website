@@ -1,0 +1,16 @@
+---
+title: "Host–parasite coevolution induces selection for condition-dependent sex"
+date: 2012-01-01
+author: ["R. Mostowy", "Jan Engelstädter"]
+publication: "Journal of Evolutionary Biology, **25**, _2033--2046_ (2012)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1420-9101.2012.02584.x
+url_preprint:
+journ: "Journal of Evolutionary Biology"
+volume: 25
+issue: 10
+page: 2033--2046
+year: 2012
+#image: featured.gif
+pub_number: 34
+---

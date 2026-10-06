@@ -1,0 +1,34 @@
+---
+title: "Alicia Williams"
+last: "Williams"
+first: "Alicia"
+people_group: alumni
+email: ""
+subtitle: "Honours Student & Lab Assistant"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: "Alicia H. Williams"  # name as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+:::{#about}
+
+While completing my undergraduate degree in microbiology, I became fascinated by environmental microbiology and the role bacteria play in communities. For my Honours project, I studied the fitness costs of antibiotic resistance mutations in *E. coli* under different resource regimes. My research aimed to help answer the fundamental question of how resistant and sensitive bacteria coexist in communities, which has numerous applications in ecology, agriculture and healthcare.
+
+:::

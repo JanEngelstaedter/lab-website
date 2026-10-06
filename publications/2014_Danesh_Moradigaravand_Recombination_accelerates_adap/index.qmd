@@ -1,0 +1,16 @@
+---
+title: "Recombination accelerates adaptation on a large-scale empirical fitness landscape in HIV-1"
+date: 2014-01-01
+author: ["Danesh Moradigaravand", "Roger Kouyos", "Trevor Hinkley", "Mojgan Haddad", "Christos J. Petropoulos", "Jan Engelstädter", "Sebastian Bonhoeffer"]
+publication: "PLOS Genetics, **10**, _e1004439_ (2014)."
+categories: ["group"]
+url_source: https://doi.org/10.1371/journal.pgen.1004439
+url_preprint: 
+journ: "PLOS Genetics"
+volume: 10
+issue: 6
+page: e1004439
+year: 2014
+#image: featured.gif
+pub_number: 37
+---

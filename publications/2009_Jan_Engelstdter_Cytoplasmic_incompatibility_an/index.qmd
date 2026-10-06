@@ -1,0 +1,16 @@
+---
+title: "Cytoplasmic incompatibility and host population structure"
+date: 2009-01-01
+author: ["Jan Engelstädter", "A Telschow"]
+publication: "Heredity, **103**, _196--207_ (2009)."
+categories: [""]
+url_source: https://doi.org/10.1038/hdy.2009.53
+url_preprint:
+journ: "Heredity"
+volume: 103
+issue: 3
+page: 196--207
+year: 2009
+#image: featured.gif
+pub_number: 20
+---

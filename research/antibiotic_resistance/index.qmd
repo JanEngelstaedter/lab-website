@@ -1,0 +1,27 @@
+---
+title: Ecology and evolution of antibiotic resistance
+alias: &ALIAS AMR
+order: 1
+image: featured.png  # codon network from Ngo et al. (2026)
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+
+The global rise in antibiotic resistance, the most prominent form of antimicrobial resistance (AMR), is a major threat to public health and agriculture. At the same time, the spread of bacterial pathogens that are resistant to antibiotics is clearly a population biological process, governed by principles of ecology and evolution. Our research uses a combination of mathematical models, experiments, and bioinformatics to uncover these principles and to explore ways to curb the spread of resistance. Current topics of interest include 1) investigating the impact of fluctuations in antibiotic concentrations and resources on resistance evolution, 2) the predictability of antibiotic resistance evolution within and across species, and 3) optimising treatment regimes involving multiple drugs.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

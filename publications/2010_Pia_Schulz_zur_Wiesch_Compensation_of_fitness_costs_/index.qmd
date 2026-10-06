@@ -1,0 +1,16 @@
+---
+title: "Compensation of fitness costs and reversibility of antibiotic resistance mutations"
+date: 2010-01-01
+author: ["Pia Schulz zur Wiesch", "Jan Engelstädter", "Sebastian Bonhoeffer"]
+publication: "Antimicrobial Agents and Chemotherapy, **54**, _2085--2095_ (2010)."
+categories: [""]
+url_source: https://doi.org/10.1128/AAC.01460-09
+url_preprint: 
+journ: "Antimicrobial Agents and Chemotherapy"
+volume: 54
+issue: 5
+page: 2085--2095
+year: 2010
+#image: featured.gif
+pub_number: 23
+---

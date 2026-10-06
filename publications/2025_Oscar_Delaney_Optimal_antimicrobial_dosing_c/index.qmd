@@ -1,0 +1,16 @@
+---
+title: "Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ"
+date: 2025-01-01
+author: ["Oscar Delaney", "Andrew D Letten", "Jan Engelstädter"]
+publication: "Evolution, **79**, _1900--1910_ (2025)."
+categories: ["group", "AMR"]
+url_source: https://doi.org/10.1093/evolut/qpaf123
+url_preprint: 
+journ: "Evolution"
+volume: 79
+issue: 9
+page: 1900--1910
+year: 2025
+image: featured.png
+pub_number: 76
+---

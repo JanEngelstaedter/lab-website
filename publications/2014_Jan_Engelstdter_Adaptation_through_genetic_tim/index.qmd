@@ -1,0 +1,16 @@
+---
+title: "Adaptation through genetic time travel? Fluctuating selection can drive the evolution of bacterial transformation"
+date: 2014-01-01
+author: ["Jan Engelstädter", "Danesh Moradigaravand"]
+publication: "Proceedings of the Royal Society of London. Series B, Biological Sciences, **281**, _20132609_ (2014)."
+categories: ["group", "recombination"]
+url_source: https://doi.org/10.1098/rspb.2013.2609
+url_preprint: 
+journ: "Proceedings of the Royal Society of London. Series B, Biological Sciences"
+volume: 281
+issue: 1775
+page: 20132609
+year: 2014
+image: featured.png
+pub_number: 39
+---

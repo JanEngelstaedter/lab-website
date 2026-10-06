@@ -1,0 +1,16 @@
+---
+title: "The evolution of cytoplasmic incompatibility types: integrating segregation, inbreeding and outbreeding"
+date: 2006-01-01
+author: ["Jan Engelstädter", "Sylvain Charlat", "Andrew Pomiankowski", "Gregory D. D. Hurst"]
+publication: "Genetics, **172**, _2601--2611_ (2006)."
+categories: [""]
+url_source: https://doi.org/10.1534/genetics.105.050302
+url_preprint: 
+journ: "Genetics"
+volume: 172
+issue: 4
+page: 2601--2611
+year: 2006
+#image: featured.gif
+pub_number: 5
+---

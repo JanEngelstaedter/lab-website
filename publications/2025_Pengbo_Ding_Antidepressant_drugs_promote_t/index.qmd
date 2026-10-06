@@ -1,0 +1,16 @@
+---
+title: "Antidepressant drugs promote the spread of broad-host-range plasmid in mouse and human gut microbiota"
+date: 2025-01-01
+author: ["Pengbo Ding", "Ji Lu", "Tong Lei", "Yinan Guo", "Baoli Zhu", "Yong Zhao", "Yue Wang", "Jan Engelstädter", "Mark A. Schembri", "Jianhua Guo"]
+publication: "Gut Microbes, **17**, _2514138_ (2025)."
+categories: ["group"]
+url_source: https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2514138
+url_preprint: 
+journ: "Gut Microbes"
+volume: 17
+issue: 1
+page: 2514138
+year: 2025
+#image: featured.gif
+pub_number: 72
+---

@@ -1,0 +1,16 @@
+---
+title: "Belt and braces: Two escape ways to maintain the cassette reservoir of large chromosomal integrons"
+date: 2024-01-01
+author: ["Egill Richard", "Baptiste Darracq", "Eloi Littner", "Gael A. Millot", "Valentin Conte", "Thomas Cokelaer", "Jan Engelstädter", "Eduardo P. C. Rocha", "Didier Mazel", "Céline Loot"]
+publication: "PLOS Genetics, **20**, _e1011231_ (2024)."
+categories: ["group"]
+url_source: https://doi.org/10.1371/journal.pgen.1011231
+url_preprint: 
+journ: "PLOS Genetics"
+volume: 20
+issue: 4
+page: e1011231
+year: 2024
+#image: featured.gif
+pub_number: 71
+---

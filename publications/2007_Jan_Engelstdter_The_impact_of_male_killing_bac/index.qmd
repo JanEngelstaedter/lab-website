@@ -1,0 +1,16 @@
+---
+title: "The impact of male-killing bacteria on host evolutionary processes"
+date: 2007-01-01
+author: ["Jan Engelstädter", "Gregory D. D. Hurst"]
+publication: "Genetics, **175**, _245--254_ (2007)."
+categories: [""]
+url_source: https://doi.org/10.1534/genetics.106.060921
+url_preprint: 
+journ: "Genetics"
+volume: 175
+issue: 1
+page: 245--254
+year: 2007
+#image: featured.gif
+pub_number: 9
+---

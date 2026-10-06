@@ -1,0 +1,16 @@
+---
+title: "Metabolic switching promotes microbial coexistence under fluctuating resources"
+date: 2026-01-01
+author: ["Yu-Pei Tseng", "Jan Engelstädter", "Andrew D. Letten"]
+publication: "bioRxiv, _year: 2026_ (2026)."
+categories: ["group"]
+url_source:
+url_preprint: https://doi.org/10.64898/2026.08.19.745668
+journ: "bioRxiv"
+volume:
+issue:
+page:
+year: 2026
+#image: featured.gif
+pub_number: 86
+---

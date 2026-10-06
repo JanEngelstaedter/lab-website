@@ -1,0 +1,16 @@
+---
+title: "Frequent, infinitesimal bottlenecks maximize the rate of microbial adaptation"
+date: 2023-01-01
+author: ["Oscar Delaney", "Andrew D Letten", "Jan Engelstädter"]
+publication: "Genetics, **225**, _iyad185_ (2023)."
+categories: ["group"]
+url_source: https://doi.org/10.1093/genetics/iyad185
+url_preprint: 
+journ: "Genetics"
+volume: 225
+issue: 4
+page: iyad185
+year: 2023
+image: featured.png
+pub_number: 69
+---

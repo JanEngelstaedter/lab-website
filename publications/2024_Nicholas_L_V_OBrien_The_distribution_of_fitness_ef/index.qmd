@@ -1,0 +1,16 @@
+---
+title: "The distribution of fitness effects during adaptive walks using a simple genetic network"
+date: 2024-01-01
+author: ["Nicholas L. V. O'Brien", "Barbara Holland", "Jan Engelstädter", "Daniel Ortiz-Barrientos"]
+publication: "PLOS Genetics, **20**, _e1011289_ (2024)."
+categories: ["group"]
+url_source: https://doi.org/10.1371/journal.pgen.1011289
+url_preprint: 
+journ: "PLOS Genetics"
+volume: 20
+issue: 5
+page: e1011289
+year: 2024
+#image: featured.gif
+pub_number: 70
+---

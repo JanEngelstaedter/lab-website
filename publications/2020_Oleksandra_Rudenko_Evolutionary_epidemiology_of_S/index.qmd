@@ -1,0 +1,16 @@
+---
+title: "Evolutionary epidemiology of Streptococcus iniae: Linking mutation rate dynamics with adaptation to novel immunological landscapes"
+date: 2020-01-01
+author: ["Oleksandra Rudenko", "Jan Engelstädter", "Andrew C. Barnes"]
+publication: "Infection, Genetics and Evolution: Journal of Molecular Epidemiology and Evolutionary Genetics in Infectious Diseases, **85**, _104435_ (2020)."
+categories: ["group"]
+url_source: https://doi.org/10.1016/j.meegid.2020.104435
+url_preprint: 
+journ: "Infection, Genetics and Evolution: Journal of Molecular Epidemiology and Evolutionary Genetics in Infectious Diseases"
+volume: 85
+issue: 
+page: 104435
+year: 2020
+#image: featured.gif
+pub_number: 54
+---

@@ -1,0 +1,16 @@
+---
+title: "Genetic slippage after sex maintains diversity for parasite resistance in a natural host population"
+date: 2022-01-01
+author: ["Camille Ameline", "Felix Voegtli", "Jason Andras", "Eric Dexter", "Jan Engelstädter", "Dieter Ebert"]
+publication: "Science Advances, **8**, _eabn0051_ (2022)."
+categories: ["group"]
+url_source: https://doi.org/10.1126/sciadv.abn0051
+url_preprint: 
+journ: "Science Advances"
+volume: 8
+issue: 46
+page: eabn0051
+year: 2022
+#image: featured.gif
+pub_number: 62
+---

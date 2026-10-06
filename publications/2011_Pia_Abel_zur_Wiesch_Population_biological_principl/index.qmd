@@ -1,0 +1,16 @@
+---
+title: "Population biological principles of drug-resistance evolution in infectious diseases"
+date: 2011-01-01
+author: ["Pia Abel zur Wiesch", "Roger Kouyos", "Jan Engelstädter", "Roland R. Regoes", "Sebastian Bonhoeffer"]
+publication: "The Lancet Infectious Diseases, **11**, _236--247_ (2011)."
+categories: [""]
+url_source: https://doi.org/10.1016/S1473-3099(10)70264-4
+url_preprint: 
+journ: "The Lancet Infectious Diseases"
+volume: 11
+issue: 3
+page: 236--247
+year: 2011
+#image: featured.gif
+pub_number: 25
+---

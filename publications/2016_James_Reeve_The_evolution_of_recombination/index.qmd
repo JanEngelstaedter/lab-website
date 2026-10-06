@@ -1,0 +1,16 @@
+---
+title: "The evolution of recombination rates in finite populations during ecological speciation"
+date: 2016-01-01
+author: ["James Reeve", "Daniel Ortiz-Barrientos", "Jan Engelstädter"]
+publication: "Proceedings of the Royal Society of London. Series B, Biological Sciences, **283**, _20161243_ (2016)."
+categories: ["group"]
+url_source: https://doi.org/10.1098/rspb.2016.1243
+url_preprint: 
+journ: "Proceedings of the Royal Society of London. Series B, Biological Sciences"
+volume: 283
+issue: 1841
+page: 20161243
+year: 2016
+#image: featured.gif
+pub_number: 44
+---

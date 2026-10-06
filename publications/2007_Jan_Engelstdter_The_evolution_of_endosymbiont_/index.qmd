@@ -1,0 +1,16 @@
+---
+title: "The evolution of endosymbiont density in doubly infected host species"
+date: 2007-01-01
+author: ["Jan Engelstädter", "P. Hammerstein", "G. D. D. Hurst"]
+publication: "Journal of Evolutionary Biology, **20**, _685--695_ (2007)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1420-9101.2006.01257.x
+url_preprint:
+journ: "Journal of Evolutionary Biology"
+volume: 20
+issue: 2
+page: 685--695
+year: 2007
+#image: featured.gif
+pub_number: 10
+---

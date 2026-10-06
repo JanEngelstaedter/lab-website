@@ -1,0 +1,16 @@
+---
+title: "Mutations associated with streptomycin resistance predicted to be highly prevalent and evolvable across bacteria"
+date: 2026-01-01
+author: ["Le Na Ngo", "Andrew D. Letten", "Jan Engelstädter"]
+publication: "bioRxiv, _year: 2026_ (2026)."
+categories: ["group", "AMR"]
+url_source:
+url_preprint: https://doi.org/10.64898/2026.06.09.731231
+journ: "bioRxiv"
+volume:
+issue:
+page:
+year: 2026
+image: featured.png
+pub_number: 85
+---

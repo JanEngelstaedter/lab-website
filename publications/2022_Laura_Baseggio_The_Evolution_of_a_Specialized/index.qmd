@@ -1,0 +1,16 @@
+---
+title: "The Evolution of a Specialized, Highly Virulent Fish Pathogen through Gene Loss and Acquisition of Host-Specific Survival Mechanisms"
+date: 2022-01-01
+author: ["Laura Baseggio", "Oleksandra Rudenko", "Jan Engelstädter", "Andrew C. Barnes"]
+publication: "Applied and Environmental Microbiology, **88**, _e0022222_ (2022)."
+categories: ["group"]
+url_source: https://doi.org/10.1128/aem.00222-22
+url_preprint: 
+journ: "Applied and Environmental Microbiology"
+volume: 88
+issue: 14
+page: e0022222
+year: 2022
+#image: featured.gif
+pub_number: 63
+---

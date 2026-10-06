@@ -1,0 +1,26 @@
+---
+title: Evolution of recombination and gene exchange
+alias: &ALIAS recombination
+order: 3
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+
+Bacteria reproduce asexually, but many can exchange genetic material, for example by taking up DNA from their environment (natural transformation) or through mobile genetic elements such as plasmids. Why these mechanisms evolved, and what they mean for bacterial adaptation, is a long-standing puzzle that parallels the question of why sex and recombination evolved in eukaryotes. Using mathematical models, computer simulations and experimental work, we have studied the costs and benefits of natural transformation and how integrons, genetic platforms that capture and shuffle gene cassettes (including many antibiotic resistance genes), help bacteria adapt to changing environments.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

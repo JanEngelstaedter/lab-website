@@ -1,0 +1,310 @@
+/*-- scss:defaults --*/
+
+// Colors
+$primary: #1E5631; // dark green
+$sand_old: #f0eeeb;
+$sand: #F6F5F3;
+$gold: #e8e3d3;
+
+// Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Bebas+Neue&family=Economica:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@300&family=Montserrat:wght@300;400&family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,700;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,700&family=Nunito:wght@300&family=Source+Sans+3:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/source-sans-pro');
+
+
+/*-- scss:rules --*/
+/* -- fonts * --*/
+h1, .h1 {
+   font-family: 'Economica', sans-serif;
+   font-weight: normal;
+   text-transform: uppercase;
+ }
+
+// h2, .h2 {
+//   font-family: 'Economica', sans-serif;
+//  }
+
+/* -- home page headline: solid theme green --*/
+
+div.home-headline {
+  color: $primary;
+}
+
+.welcome-headline {
+  font-size: 3.1rem;
+  font-weight: 700;
+  letter-spacing: -2px;
+  line-height: 1;
+}
+
+@media only screen and (max-width: 768px) {
+  .welcome-headline {
+    font-size: 2.1rem;
+
+  }
+}
+.welcome-subheadline {
+  font-size: 2.1rem; 
+  letter-spacing: 0px; 
+  line-height: 1; 
+  font-family:Economica; 
+  text-transform:uppercase;
+}
+
+@media only screen and (max-width: 768px) {
+  .welcome-subheadline {
+    font-size: 1.3rem;
+
+  }
+}
+
+
+/*-- navbar --*/
+
+.navbar {
+  padding-top: 0.2rem;    // a little breathing room above and below
+  padding-bottom: 0.2rem;
+  font-size: 1em;
+  // font-family: 'Arsenal', sans-serif;
+  //font-family: 'Bebas Neue', sans-serif;
+   font-family: 'Economica', sans-serif;
+   text-transform: uppercase;
+  }
+
+/*quarto-header {
+  /*border-bottom: 1px solid black; */
+/*}*/
+
+
+
+/* brand: lab name and subtitle, then the bacterium logo to their right */
+.navbar-brand-container {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand-container .navbar-brand {
+  margin-right: 0;
+}
+
+.navbar-brand.navbar-brand-logo {
+  order: 2;               // Quarto puts the logo first; show it after the title
+  display: flex;
+  padding: 0;
+  margin-left: 0.6rem;
+  margin-right: 1.5rem;   // gap between logo and menu items
+}
+
+.navbar-logo {
+  height: 46px;           // about the height of the two lines of text
+  max-height: none;       // Quarto caps logos at 24px by default
+  width: auto;
+  padding-right: 0;
+}
+
+@media (max-width: 991px) {
+  .navbar-nav-scroll {
+    background: #EAE7E7;
+    width: 70%;
+  }
+  }
+
+
+
+
+
+
+/* homepage */
+/* -- home page text: aligned with the headline, lines capped at 800px --*/
+.home-text {
+  max-width: 800px;
+  margin-top: 1.5rem;
+  font-size: larger;
+  display: flow-root; // keeps the floated photo inside the block
+}
+
+
+
+.welcome-img p {
+  margin-bottom: 0;
+}
+
+/*-- background styles --*/
+
+.black-background {
+  background-color: black;
+}
+
+.primary-background {
+  background-color: $primary;
+}
+
+.gold-background {
+  background-color: $gold;
+}
+
+.sand-background {
+  background-color: $sand;
+}
+
+
+
+
+
+/* -- headings: ## headings use the page-title font (Economica), smaller and not in capitals --*/
+
+h2, .h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+  font-family: 'Economica', sans-serif;
+  font-weight: normal;
+  font-size: 2.1rem;
+  text-transform: none;
+}
+
+/* -- navbar title: larger lab name with a subtitle underneath --*/
+
+.navbar-brand .navbar-title {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.navbar-brand .navbar-title::after {
+  content: "Microbial evolutionary dynamics";
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+/* -- research topic cards: the gene exchange card shows its whole picture; the others fill the strip --*/
+
+#listing-research a[href*="recombination_gene_exchange"] .card-img-top > img {
+  object-fit: contain;
+}
+
+/* -- publication links --*/
+
+.pub-link {
+  color: $primary;
+}
+
+/* -- people --*/
+
+.listing-box-title {
+  max-width: 80%;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  color: #222;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+.listing-box-subtitle {
+  /*    margin-top: auto;*/
+  //font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 0;
+  color: #757883;
+  line-height: 1.5;
+}
+
+.listing-box-education {
+  margin-bottom: 0;
+  color: #757883;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.listing-box-button a[role="button"] {
+  width: 140px;
+  min-height: 150px;
+  color: rgb(55, 58, 60);
+  text-align: center;
+  border: 1px solid rgb(222, 226, 230);
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.listing-box-section {
+  margin-bottom: 30px;
+  box-sizing: border-box;
+}
+
+
+.listing-box-image {
+  object-fit: contain;
+  width: 100%;
+  height: 190px;
+}
+
+.quarto-listing-cols-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.quarto-listing-cols-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.anchored {
+  padding-top: 8px;
+}
+
+/* -- publications --*/
+
+.listing-pub-title {
+  /*font-family: 'Bebas Neue', sans-serif;
+  max-width: 80%;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  color: #222;
+  line-height: 1.2;*/
+  font-size: 18px;
+  font-weight: 700; 
+}
+
+.listing-pub-author {
+  color: #757883;
+  font-size: 13px;
+  margin-bottom: 6px;
+  /*line-height: 1.5;*/
+}
+
+.listing-pub-number {
+  font-weight: 700; 
+  font-size: 15px;
+
+}
+
+.listing-pub-journal {
+  color: #757883;
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+
+.listing-pub-url {
+  font-size: 13px;
+}
+
+.quarto-listing-default .thumbnail-image {
+  width: 120px !important;
+  height: 120px !important;
+  object-fit: contain !important; // show whole image; non-square ones get white space
+  object-position: center !important;
+  border-radius: 8px;
+  display: block;
+  margin-right: 15px;
+  flex-shrink: 0;
+}

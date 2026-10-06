@@ -1,0 +1,16 @@
+---
+title: "Reversing resistance: different routes and common themes across pathogens"
+date: 2017-01-01
+author: ["Richard C. Allen", "Jan Engelstädter", "Sebastian Bonhoeffer", "Bruce A. McDonald", "Alex R. Hall"]
+publication: "Proceedings of the Royal Society of London. Series B, Biological Sciences, **284**, _20171619_ (2017)."
+categories: ["group"]
+url_source: https://doi.org/10.1098/rspb.2017.1619
+url_preprint: 
+journ: "Proceedings of the Royal Society of London. Series B, Biological Sciences"
+volume: 284
+issue: 1863
+page: 20171619
+year: 2017
+#image: featured.gif
+pub_number: 49
+---

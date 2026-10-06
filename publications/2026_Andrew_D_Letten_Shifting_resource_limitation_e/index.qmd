@@ -1,0 +1,16 @@
+---
+title: "Shifting resource limitation explains multiphasic patterns of density dependence"
+date: 2026-01-01
+author: ["Andrew D. Letten", "James A. Orr", "Jan Engelstädter", "Noelle A. Held", "Christopher Klausmeier", "Michael Manhart", "Daniel B. Stouffer"]
+publication: "bioRxiv, _year: 2026_ (2026)."
+categories: ["group"]
+url_source:
+url_preprint: https://doi.org/10.64898/2026.07.16.738797
+journ: "bioRxiv"
+volume:
+issue:
+page:
+year: 2026
+#image: featured.gif
+pub_number: 81
+---

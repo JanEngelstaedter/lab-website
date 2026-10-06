@@ -1,0 +1,16 @@
+---
+title: "Infection dynamics of different Wolbachia-types within one host population"
+date: 2004-01-01
+author: ["Jan Engelstädter", "Arndt Telschow", "Peter Hammerstein"]
+publication: "Journal of Theoretical Biology, **231**, _345--355_ (2004)."
+categories: [""]
+url_source: https://doi.org/10.1016/j.jtbi.2004.06.029
+url_preprint: 
+journ: "Journal of Theoretical Biology"
+volume: 231
+issue: 3
+page: 345--355
+year: 2004
+#image: featured.gif
+pub_number: 2
+---

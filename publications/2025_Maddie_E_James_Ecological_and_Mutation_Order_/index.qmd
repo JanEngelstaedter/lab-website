@@ -1,0 +1,16 @@
+---
+title: "Ecological and Mutation-Order Speciation in Senecio"
+date: 2025-01-01
+author: ["Maddie E. James", "Maria C. Melo", "Federico Roda", "Diana Bernal-Franco", "Melanie J. Wilkinson", "Gregory M. Walter", "Huanle Liu", "Jan Engelstädter", "Daniel Ortiz-Barrientos"]
+publication: "Molecular Ecology, **34**, _e70090_ (2025)."
+categories: ["group"]
+url_source: https://doi.org/10.1111/mec.70090
+url_preprint: 
+journ: "Molecular Ecology"
+volume: 34
+issue: 
+page: e70090
+year: 2025
+#image: featured.gif
+pub_number: 74
+---

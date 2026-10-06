@@ -1,0 +1,16 @@
+---
+title: "Fitness landscapes emerging from pharmacodynamic functions in the evolution of multidrug resistance"
+date: 2014-01-01
+author: ["Jan Engelstädter"]
+publication: "Journal of Evolutionary Biology, **27**, _840--853_ (2014)."
+categories: ["AMR", "group"]
+url_source: https://doi.org/10.1111/jeb.12355
+url_preprint: 
+journ: "Journal of Evolutionary Biology"
+volume: 27
+issue: 5
+page: 840--853
+year: 2014
+#image: featured.gif
+pub_number: 41
+---

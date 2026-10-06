@@ -1,0 +1,16 @@
+---
+title: "Outbreeding selects for spiteful cytoplasmic elements"
+date: 2006-01-01
+author: ["Jan Engelstädter", "Sylvain Charlat"]
+publication: "Proceedings of the Royal Society of London. Series B, Biological Sciences, **273**, _923--929_ (2006)."
+categories: [""]
+url_source: https://doi.org/10.1098/rspb.2005.3411
+url_preprint: 
+journ: "Proceedings of the Royal Society of London. Series B, Biological Sciences"
+volume: 273
+issue: 1589
+page: 923--929
+year: 2006
+#image: featured.gif
+pub_number: 4
+---

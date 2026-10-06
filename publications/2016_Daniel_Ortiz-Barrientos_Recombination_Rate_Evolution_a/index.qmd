@@ -1,0 +1,16 @@
+---
+title: "Recombination Rate Evolution and the Origin of Species"
+date: 2016-01-01
+author: ["Daniel Ortiz-Barrientos", "Jan Engelstädter", "Loren H. Rieseberg"]
+publication: "Trends in Ecology & Evolution, **31**, _226--236_ (2016)."
+categories: ["group"]
+url_source: https://doi.org/10.1016/j.tree.2015.12.016
+url_preprint: 
+journ: "Trends in Ecology & Evolution"
+volume: 31
+issue: 3
+page: 226--236
+year: 2016
+#image: featured.gif
+pub_number: 48
+---

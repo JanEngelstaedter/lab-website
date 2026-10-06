@@ -1,0 +1,16 @@
+---
+title: "The diversity of reproductive parasites among arthropods: Wolbachia do not walk alone"
+date: 2008-01-01
+author: ["Olivier Duron", "Didier Bouchon", "Sébastien Boutin", "Lawrence Bellamy", "Liqin Zhou", "Jan Engelstädter", "Gregory D. Hurst"]
+publication: "BMC biology, **6**, _27_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1186/1741-7007-6-27
+url_preprint: 
+journ: "BMC biology"
+volume: 6
+issue: 
+page: 27
+year: 2008
+#image: featured.gif
+pub_number: 13
+---

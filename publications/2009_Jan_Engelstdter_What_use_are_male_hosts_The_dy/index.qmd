@@ -1,0 +1,16 @@
+---
+title: "What use are male hosts? The dynamics of maternally inherited bacteria showing sexual transmission or male killing"
+date: 2009-01-01
+author: ["Jan Engelstädter", "Gregory D. D. Hurst"]
+publication: "The American Naturalist, **173**, _E159--170_ (2009)."
+categories: [""]
+url_source: https://doi.org/10.1086/597375
+url_preprint: 
+journ: "The American Naturalist"
+volume: 173
+issue: 5
+page: E159--170
+year: 2009
+#image: featured.gif
+pub_number: 19
+---

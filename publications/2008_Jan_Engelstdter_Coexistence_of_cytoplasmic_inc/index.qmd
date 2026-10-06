@@ -1,0 +1,16 @@
+---
+title: "Coexistence of cytoplasmic incompatibility and male-killing-inducing endosymbionts, and their impact on host gene flow"
+date: 2008-01-01
+author: ["Jan Engelstädter", "Arndt Telschow", "Norio Yamamura"]
+publication: "Theoretical Population Biology, **73**, _125--133_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1016/j.tpb.2007.08.004
+url_preprint: 
+journ: "Theoretical Population Biology"
+volume: 73
+issue: 1
+page: 125--133
+year: 2008
+#image: featured.gif
+pub_number: 17
+---

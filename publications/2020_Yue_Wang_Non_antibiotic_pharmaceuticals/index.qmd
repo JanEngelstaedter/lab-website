@@ -1,0 +1,16 @@
+---
+title: "Non-antibiotic pharmaceuticals enhance the transmission of exogenous antibiotic resistance genes through bacterial transformation"
+date: 2020-01-01
+author: ["Yue Wang", "Ji Lu", "Jan Engelstädter", "Shuai Zhang", "Pengbo Ding", "Likai Mao", "Zhiguo Yuan", "Philip L. Bond", "Jianhua Guo"]
+publication: "The ISME Journal, **14**, _2179--2196_ (2020)."
+categories: ["group"]
+url_source: https://doi.org/10.1038/s41396-020-0679-2
+url_preprint: 
+journ: "The ISME Journal"
+volume: 14
+issue: 8
+page: 2179--2196
+year: 2020
+#image: featured.gif
+pub_number: 55
+---

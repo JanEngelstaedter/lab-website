@@ -1,0 +1,34 @@
+---
+title: "Jack Price"
+last: "Price"
+first: "Jack"
+people_group: alumni
+email: ""
+subtitle: "MPhil Student"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: "Jack Price"  # name as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+:::{#about}
+
+I had previously worked on concepts such as cryptic genetic variation and the effects of environmental conditions on the adaptability of populations. I started a PhD in the lab, looking at how integrons behave in bacteria, both with respect to antibiotic resistance and in a more general evolutionary sense, hoping to gain some insight into what impact these prevalent genetic systems have on the evolutionary behaviour of bacterial populations, and completed this work with an MPhil degree. I am now a PhD student in [Daniel Ortiz-Barrientos' lab](https://www.ortizbarrientoslab.org/), co-supervised by Jan. More generally, I am interested in the possibilities and constraints placed on evolving populations. What exactly evolution can deal with and what restricts its adaptive potential is what motivates me to further explore and learn about this fascinating phenomenon.
+
+:::

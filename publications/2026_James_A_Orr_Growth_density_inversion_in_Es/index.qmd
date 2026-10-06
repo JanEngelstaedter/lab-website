@@ -1,0 +1,16 @@
+---
+title: "Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence"
+date: 2026-01-01
+author: ["James A. Orr", "Kaleigh E. Davis", "Alicia H. Williams", "Jan Engelstädter", "Daniel B. Stouffer", "Andrew D. Letten"]
+publication: "PLOS Biology, **24**, _e3003898_ (2026)."
+categories: ["group"]
+url_source: https://doi.org/10.1371/journal.pbio.3003898
+url_preprint:
+journ: "PLOS Biology"
+volume: 24
+issue: 7
+page: e3003898
+year: 2026
+image: featured.png
+pub_number: 84
+---

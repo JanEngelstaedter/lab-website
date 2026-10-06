@@ -1,0 +1,16 @@
+---
+title: "Evolutionary mysteries in meiosis"
+date: 2016-01-01
+author: ["Thomas Lenormand", "Jan Engelstädter", "Susan E. Johnston", "Erik Wijnker", "Christoph R. Haag"]
+publication: "Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, **371**, _20160001_ (2016)."
+categories: ["group"]
+url_source: https://doi.org/10.1098/rstb.2016.0001
+url_preprint: 
+journ: "Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences"
+volume: 371
+issue: 1706
+page: 20160001
+year: 2016
+#image: featured.gif
+pub_number: 45
+---

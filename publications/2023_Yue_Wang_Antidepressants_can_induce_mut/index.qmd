@@ -1,0 +1,16 @@
+---
+title: "Antidepressants can induce mutation and enhance persistence toward multiple antibiotics"
+date: 2023-01-01
+author: ["Yue Wang", "Zhigang Yu", "Pengbo Ding", "Ji Lu", "Likai Mao", "Lyman Ngiam", "Zhiguo Yuan", "Jan Engelstädter", "Mark A. Schembri", "Jianhua Guo"]
+publication: "Proceedings of the National Academy of Sciences of the United States of America, **120**, _e2208344120_ (2023)."
+categories: ["group"]
+url_source: https://doi.org/10.1073/pnas.2208344120
+url_preprint: 
+journ: "Proceedings of the National Academy of Sciences of the United States of America"
+volume: 120
+issue: 5
+page: e2208344120
+year: 2023
+#image: featured.gif
+pub_number: 68
+---

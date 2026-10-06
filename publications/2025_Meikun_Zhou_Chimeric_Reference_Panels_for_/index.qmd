@@ -1,0 +1,16 @@
+---
+title: "Chimeric Reference Panels for Genomic Imputation"
+date: 2025-01-01
+author: ["Meikun Zhou", "Maddie E. James", "Jan Engelstädter", "Daniel Ortiz-Barrientos"]
+publication: "Genetics, **232**, _iyaf212_ (2025)."
+categories: ["group"]
+url_source: https://doi.org/10.1093/genetics/iyaf212
+url_preprint: 
+journ: "Genetics"
+volume: 232
+issue: 
+page: iyaf212
+year: 2025
+#image: featured.gif
+pub_number: 73
+---

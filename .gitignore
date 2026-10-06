@@ -1,0 +1,24 @@
+# Built website and Quarto's cache (rebuilt by `quarto render`; published via `quarto publish gh-pages`)
+/_site/
+/.quarto/
+*_files/
+
+# R / renv
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/local/
+renv/staging/
+
+# macOS
+.DS_Store
+
+# Private notes (kept locally in Dropbox, not on GitHub)
+TODO.md
+CLAUDE.md
+
+# Unused uncropped photo originals (kept locally in Dropbox)
+people/*/avatar_old.jpg
+people/ngo_lena/LeNa.jpeg
+people/gooi_ian/ian.jpg

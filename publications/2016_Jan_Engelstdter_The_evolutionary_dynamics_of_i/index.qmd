@@ -1,0 +1,16 @@
+---
+title: "The evolutionary dynamics of integrons in changing environments"
+date: 2016-01-01
+author: ["Jan Engelstädter", "Klaus Harms", "Pål J. Johnsen"]
+publication: "The ISME Journal, **10**, _1296--1307_ (2016)."
+categories: ["group", "recombination"]
+url_source: https://doi.org/10.1038/ismej.2015.222
+url_preprint: 
+journ: "The ISME Journal"
+volume: 10
+issue: 6
+page: 1296--1307
+year: 2016
+image: featured.png
+pub_number: 47
+---

@@ -1,0 +1,16 @@
+---
+title: "Constraints on the evolution of asexual reproduction"
+date: 2008-01-01
+author: ["Jan Engelstädter"]
+publication: "BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology, **30**, _1138--1150_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1002/bies.20833
+url_preprint: 
+journ: "BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology"
+volume: 30
+issue: 11-12
+page: 1138--1150
+year: 2008
+#image: featured.gif
+pub_number: 11
+---

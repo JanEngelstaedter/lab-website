@@ -1,0 +1,26 @@
+---
+# title: 'Welcome!'
+# subtitle: "Microbial evolutionary dynamics"
+description: "The Engelstädter Lab at The University of Queensland studies how bacteria adapt to their environments, including the evolution of antibiotic resistance, microbial recombination and host-parasite coevolution."
+page-layout: full
+---
+<div class="home-headline">
+
+<div class="welcome-headline">
+Welcome to the Engelstädter Lab<br>
+</div>
+<div class="welcome-subheadline">
+Microbial evolutionary dynamics
+</div>
+</div>
+
+::: {.home-text}
+
+Welcome to the Engelstädter Lab, part of the [School of the Environment](https://environment.uq.edu.au/) at [The University of Queensland](https://www.uq.edu.au/) in Brisbane, Australia.
+
+Our lab studies how bacteria adapt to their environments. Current research themes include the evolution of antibiotic resistance, microbial recombination and host-parasite coevolution. We use a wide range of methodological approaches, including mathematical models, computer simulations and lab experiments.
+
+![](images/alje_lab_petri_dish.jpg){.float-end .ms-4 .mb-3 width="120px" fig-alt="Petri dish with the words ALJE LAB and a smiley face written in coloured bacterial colonies"}We share our lab with [Dr Andrew Letten](https://andrewletten.net/), whose group is also working on antibiotic resistance in bacteria but more from an ecological angle. Together we form the ALJE lab.
+
+
+:::

@@ -1,0 +1,16 @@
+---
+title: "Complete, closed and curated genome sequences of Photobacterium damselae subsp. piscicida isolates from Australia indicate mobilome-driven localized evolution and novel pathogenicity determinants"
+date: 2021-01-01
+author: ["Laura Baseggio", "Oleksandra Rudenko", "Nicky Buller", "Matt Landos", "Jan Engelstädter", "Andrew C. Barnes"]
+publication: "Microbial Genomics, **7**, _year: 2021_ (2021)."
+categories: ["group"]
+url_source: https://doi.org/10.1099/mgen.0.000562
+url_preprint:
+journ: "Microbial Genomics"
+volume: 7
+issue: 4
+page:
+year: 2021
+#image: featured.gif
+pub_number: 60
+---

@@ -1,0 +1,38 @@
+---
+title: &TITLE Indigo Grigg
+last: Grigg
+first: Indigo
+people_group: honours
+email: "indigo.grigg@student.uq.edu.au"
+subtitle: "Honours Student"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:indigo.grigg@student.uq.edu.au
+---
+
+:::{#about}
+
+I'm a BSc Honours student in the Engelstädter Lab.
+
+:::

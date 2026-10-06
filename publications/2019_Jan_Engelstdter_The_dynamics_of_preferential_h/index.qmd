@@ -1,0 +1,16 @@
+---
+title: "The dynamics of preferential host switching: Host phylogeny as a key predictor of parasite distribution"
+date: 2019-01-01
+author: ["Jan Engelstädter", "Nicole Z. Fortuna"]
+publication: "Evolution, **73**, _1330--1340_ (2019)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1111/evo.13716
+url_preprint: 
+journ: "Evolution"
+volume: 73
+issue: 7
+page: 1330--1340
+year: 2019
+image: featured.png
+pub_number: 52
+---

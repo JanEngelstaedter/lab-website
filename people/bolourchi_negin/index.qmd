@@ -1,0 +1,38 @@
+---
+title: &TITLE Negin Bolourchi
+last: Bolourchi
+first: Negin
+people_group: phd
+email: "n.bolourchi@student.uq.edu.au"
+subtitle: "PhD Student"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:n.bolourchi@student.uq.edu.au
+---
+
+:::{#about}
+
+During my master’s degree in medical microbiology, I realized to what extent fundamental research on microbes is critical for generating new knowledge aimed at the prevention and treatment of infectious diseases. Antimicrobial resistance is an issue that I believe requires particularly urgent attention. To contribute to this field, I previously worked as a research assistant at the Pasteur Institute of Iran, using bioinformatics and genomics to study highly resistant hospital-acquired bacteria. Now, as a PhD student at UQ, jointly supervised by Andrew Letten and Jan Engelstädter, I am investigating the metabolic repertoire of antimicrobial resistant bacteria and how this affects their evolution and persistence. I love what I do!
+
+:::

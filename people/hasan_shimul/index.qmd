@@ -1,0 +1,36 @@
+---
+title: "Hasan \"Shimul\" Chowdhury Mehedi"
+last: "Hasan"
+first: "Shimul"
+people_group: alumni
+email: ""
+subtitle: "PhD Student"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: "Hasan Chowdhury Mehedi"  # name as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+:::{#about}
+
+The evolution of multidrug resistance has limited our current therapeutic options by conferring resistance to virtually all classes of antibiotics currently available for the treatment of infectious diseases. Before joining the lab, I had worked extensively on the molecular epidemiology of multidrug resistant bacteria carrying ESBLs and carbapenemases, including NDM-1 as well as VIM metallo-β-lactamase. At the time, very little work had been done on the population biology and evolutionary processes that contribute to multidrug resistance. In my PhD, I therefore studied the processes by which multidrug resistance evolves and spreads in bacterial populations, using a combination of simple evolutionary experiments and mathematical modelling, with the aim of providing tools for tracing the evolutionary fate of infectious diseases, especially those involving multiple drug resistance.
+
+Next stop after the lab: postdoc at the University of Liverpool, UK.
+
+:::

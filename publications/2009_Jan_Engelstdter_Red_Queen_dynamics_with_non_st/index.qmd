@@ -1,0 +1,16 @@
+---
+title: "Red Queen dynamics with non-standard fitness interactions"
+date: 2009-01-01
+author: ["Jan Engelstädter", "Sebastian Bonhoeffer"]
+publication: "PLoS computational biology, **5**, _e1000469_ (2009)."
+categories: [""]
+url_source: https://doi.org/10.1371/journal.pcbi.1000469
+url_preprint: 
+journ: "PLoS computational biology"
+volume: 5
+issue: 8
+page: e1000469
+year: 2009
+#image: featured.gif
+pub_number: 18
+---

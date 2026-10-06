@@ -1,0 +1,16 @@
+---
+title: "A Two-Locus System with Strong Epistasis Underlies Rapid Parasite-Mediated Evolution of Host Resistance"
+date: 2021-01-01
+author: ["Camille Ameline", "Yann Bourgeois", "Felix Vögtli", "Eevi Savola", "Jason Andras", "Jan Engelstädter", "Dieter Ebert"]
+publication: "Molecular Biology and Evolution, **38**, _1512--1528_ (2021)."
+categories: ["group"]
+url_source: https://doi.org/10.1093/molbev/msaa311
+url_preprint: 
+journ: "Molecular Biology and Evolution"
+volume: 38
+issue: 4
+page: 1512--1528
+year: 2021
+#image: featured.gif
+pub_number: 58
+---

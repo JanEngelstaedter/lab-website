@@ -1,0 +1,16 @@
+---
+title: "Can maternally transmitted endosymbionts facilitate the evolution of haplodiploidy?"
+date: 2006-01-01
+author: ["Jan Engelstädter", "G. D. D. Hurst"]
+publication: "Journal of Evolutionary Biology, **19**, _194--202_ (2006)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1420-9101.2005.00974.x
+url_preprint:
+journ: "Journal of Evolutionary Biology"
+volume: 19
+issue: 1
+page: 194--202
+year: 2006
+#image: featured.gif
+pub_number: 7
+---

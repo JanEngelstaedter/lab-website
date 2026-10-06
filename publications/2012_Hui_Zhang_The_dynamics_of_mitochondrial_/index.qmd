@@ -1,0 +1,16 @@
+---
+title: "The dynamics of mitochondrial mutations causing male infertility in spatially structured populations"
+date: 2012-01-01
+author: ["Hui Zhang", "Frédéric Guillaume", "Jan Engelstädter"]
+publication: "Evolution, **66**, _3179--3188_ (2012)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1558-5646.2012.01675.x
+url_preprint: 
+journ: "Evolution"
+volume: 66
+issue: 10
+page: 3179--3188
+year: 2012
+#image: featured.gif
+pub_number: 29
+---

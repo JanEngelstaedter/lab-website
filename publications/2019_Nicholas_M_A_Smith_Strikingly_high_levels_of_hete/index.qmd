@@ -1,0 +1,16 @@
+---
+title: "Strikingly high levels of heterozygosity despite 20 years of inbreeding in a clonal honey bee"
+date: 2019-01-01
+author: ["Nicholas M. A. Smith", "Claire Wade", "Michael H. Allsopp", "Brock A. Harpur", "Amro Zayed", "Stephen A. Rose", "Jan Engelstädter", "Nadine C. Chapman", "Boris Yagound", "Benjamin P. Oldroyd"]
+publication: "Journal of Evolutionary Biology, **32**, _144--152_ (2019)."
+categories: ["group"]
+url_source: https://doi.org/10.1111/jeb.13397
+url_preprint: 
+journ: "Journal of Evolutionary Biology"
+volume: 32
+issue: 2
+page: 144--152
+year: 2019
+#image: featured.gif
+pub_number: 53
+---

@@ -1,0 +1,16 @@
+---
+title: "The impact of environmental change on host-parasite coevolutionary dynamics"
+date: 2011-01-01
+author: ["Rafal Mostowy", "Jan Engelstädter"]
+publication: "Proceedings of the Royal Society of London. Series B, Biological Sciences, **278**, _2283--2292_ (2011)."
+categories: [""]
+url_source: https://doi.org/10.1098/rspb.2010.2359
+url_preprint: 
+journ: "Proceedings of the Royal Society of London. Series B, Biological Sciences"
+volume: 278
+issue: 1716
+page: 2283--2292
+year: 2011
+#image: featured.gif
+pub_number: 26
+---

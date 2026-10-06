@@ -1,0 +1,16 @@
+---
+title: "A test of the null model for 5' UTR evolution based on GC content"
+date: 2008-01-01
+author: ["Max Reuter", "Jan Engelstädter", "Pierre Fontanillas", "Laurence D. Hurst"]
+publication: "Molecular Biology and Evolution, **25**, _801--804_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1093/molbev/msn044
+url_preprint: 
+journ: "Molecular Biology and Evolution"
+volume: 25
+issue: 5
+page: 801--804
+year: 2008
+#image: featured.gif
+pub_number: 15
+---

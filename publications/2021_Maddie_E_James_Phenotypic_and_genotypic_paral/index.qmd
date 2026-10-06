@@ -1,0 +1,16 @@
+---
+title: "Phenotypic and genotypic parallel evolution in parapatric ecotypes of Senecio"
+date: 2021-01-01
+author: ["Maddie E. James", "Melanie J. Wilkinson", "Diana M. Bernal", "Huanle Liu", "Henry L. North", "Jan Engelstädter", "Daniel Ortiz-Barrientos"]
+publication: "Evolution, **75**, _3115--3131_ (2021)."
+categories: ["group"]
+url_source: https://doi.org/10.1111/evo.14387
+url_preprint: 
+journ: "Evolution"
+volume: 75
+issue: 12
+page: 3115--3131
+year: 2021
+#image: featured.gif
+pub_number: 56
+---

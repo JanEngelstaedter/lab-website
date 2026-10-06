@@ -1,0 +1,16 @@
+---
+title: "Correction: Non-antibiotic pharmaceuticals enhance the transmission of exogenous antibiotic resistance genes through bacterial transformation"
+date: 2022-01-01
+author: ["Yue Wang", "Ji Lu", "Jan Engelstädter", "Shuai Zhang", "Pengbo Ding", "Likai Mao", "Zhiguo Yuan", "Philip L. Bond", "Jianhua Guo"]
+publication: "The ISME Journal, **16**, _612_ (2022)."
+categories: ["group"]
+url_source: https://doi.org/10.1038/s41396-021-01074-x
+url_preprint: 
+journ: "The ISME Journal"
+volume: 16
+issue: 2
+page: 612
+year: 2022
+#image: featured.gif
+pub_number: 66
+---

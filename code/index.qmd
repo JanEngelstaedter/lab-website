@@ -1,0 +1,11 @@
+---
+title: Code
+---
+
+Please visit our [GitHub page](https://github.com/JanEngelstaedter) for access to our coding efforts in recent years. In particular, you can download the following two R packages:
+
+- [cophy](https://github.com/JanEngelstaedter/cophy): a package for generating, analysing and plotting cophylogenies. Its main functionality is to simulate the cophylogenetic process of a clade of host species and a clade of parasites (or other symbionts) that are associated with the hosts. Supported events include co-speciation, host shifts (which can be biased towards closely related hosts), within-host speciation, and extinction of parasites. This package is the basis of our paper in *Evolution* ([Engelstädter & Fortuna 2019](https://doi.org/10.1111/evo.13716)).
+
+- [peas](https://github.com/JanEngelstaedter/peas): a package to predict complex patterns of Mendelian inheritance. The package contains functions for defining systems of Mendelian inheritance (defined broadly), and making predictions about the distribution of offspring genotypes and phenotypes in genetic crosses. The package can handle multiple linkage groups with autosomal, sex-chromosomal or uniparental inheritance, with arbitrary numbers of loci and alleles per locus. Multiple traits can be freely defined, potentially involving pleiotropy, polygeny and epistasis. Inspired by the *Daphnia magna*–*Pasteuria ramosa* system, this package has been requested and is used by [Dieter Ebert and his group](https://evolution.unibas.ch/ebert/) at the University of Basel, Switzerland.
+
+Both R packages are extensively documented (both come with a vignette and help pages). Neither of these packages is under active development but please [get in touch](../contact/index.qmd) if you encounter any problems or would like to see specific new features added.

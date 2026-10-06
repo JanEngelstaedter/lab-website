@@ -1,0 +1,16 @@
+---
+title: "Host phylogeny and ecological associations best explain Wolbachia host shifts in scale insects"
+date: 2023-01-01
+author: ["Ehsan Sanaei", "Gregory F. Albery", "Yun Kit Yeoh", "Yen-Po Lin", "Lyn G. Cook", "Jan Engelstädter"]
+publication: "Molecular Ecology, **32**, _2351--2363_ (2023)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1111/mec.16883
+url_preprint: 
+journ: "Molecular Ecology"
+volume: 32
+issue: 9
+page: 2351--2363
+year: 2023
+image: featured.png  # figure from the paper's supplementary material
+pub_number: 67
+---

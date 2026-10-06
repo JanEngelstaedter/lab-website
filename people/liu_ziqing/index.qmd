@@ -1,0 +1,38 @@
+---
+title: "Ziqing (Edward) Liu"
+last: Liu
+first: Ziqing
+people_group: masters
+email: "ziqing.liu@student.uq.edu.au"
+subtitle: "Masters Student"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: "Ziqing Liu"  # name as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ziqing.liu@student.uq.edu.au
+---
+
+:::{#about}
+
+I'm a Masters student in the Engelstädter Lab.
+
+:::

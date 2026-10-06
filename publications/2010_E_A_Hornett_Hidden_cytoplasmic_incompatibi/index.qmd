@@ -1,0 +1,16 @@
+---
+title: "Hidden cytoplasmic incompatibility alters the dynamics of male-killer/host interactions"
+date: 2010-01-01
+author: ["E. A. Hornett", "Jan Engelstädter", "G. D. D. Hurst"]
+publication: "Journal of Evolutionary Biology, **23**, _479--487_ (2010)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1420-9101.2009.01872.x
+url_preprint:
+journ: "Journal of Evolutionary Biology"
+volume: 23
+issue: 3
+page: 479--487
+year: 2010
+#image: featured.gif
+pub_number: 24
+---

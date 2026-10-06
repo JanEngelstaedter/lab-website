@@ -1,0 +1,16 @@
+---
+title: "Dynamics of virus infection in a Wolbachia-infected host"
+date: 2026-01-01
+author: ["Angelique K. Asselin", "Jan Engelstädter", "Karyn N. Johnson"]
+publication: "Virology, **615**, _110759_ (2026)."
+categories: ["group"]
+url_source: https://doi.org/10.1016/j.virol.2025.110759
+url_preprint:
+journ: "Virology"
+volume: 615
+issue:
+page: 110759
+year: 2026
+#image: featured.gif
+pub_number: 82
+---

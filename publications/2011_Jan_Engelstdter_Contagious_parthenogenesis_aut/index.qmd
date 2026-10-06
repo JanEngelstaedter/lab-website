@@ -1,0 +1,16 @@
+---
+title: "Contagious parthenogenesis, automixis, and a sex determination meltdown"
+date: 2011-01-01
+author: ["Jan Engelstädter", "Christoph Sandrock", "Christoph Vorburger"]
+publication: "Evolution; International Journal of Organic Evolution, **65**, _501--511_ (2011)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1558-5646.2010.01145.x
+url_preprint: 
+journ: "Evolution; International Journal of Organic Evolution"
+volume: 65
+issue: 2
+page: 501--511
+year: 2011
+#image: featured.gif
+pub_number: 27
+---

@@ -1,0 +1,34 @@
+---
+title: "Nick Smith"
+last: "Smith"
+first: "Nick"
+people_group: alumni
+email: ""
+subtitle: "Honours Student"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: "Nicholas M. A. Smith"  # name as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+:::{#about}
+
+Nick was an Honours student in the lab in 2014. Next stop: PhD student at the University of Sydney.
+
+:::

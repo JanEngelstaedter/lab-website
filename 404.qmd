@@ -1,0 +1,8 @@
+---
+title: "Page not found"
+toc: false
+---
+
+Sorry, the page you were looking for doesn't exist (anymore). You may have followed an outdated link, for example to a page of our old website.
+
+Please try the [home page](index.qmd), the menu above, or the search (magnifying glass at the top right).

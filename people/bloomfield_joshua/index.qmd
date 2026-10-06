@@ -1,0 +1,36 @@
+---
+title: "Joshua Bloomfield"
+last: "Bloomfield"
+first: "Joshua"
+people_group: alumni
+email: ""
+subtitle: "Honours Student & Lab Assistant"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: "Joshua Bloomfield"  # name as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+---
+
+:::{#about}
+
+Straight out of high school Josh knew exactly what he wanted to do with his life, theatre. After establishing himself in the Brisbane theatre scene, one of Josh’s friends lent him Sean B. Carroll’s *The making of the fittest: DNA and the Ultimate Forensic Record of Evolution*. He knew then the next logical step in his career, do a triple major with a focus on evolutionary science. Josh completed a Bachelor of Science and Art in 2021 having majored in Biochemistry, Psychology and Sociology.
+
+Josh’s interest in evolutionary science drew him to work on a semester project with Jan and Andrew Letten. He then did his honours under their joint supervision, researching the interactions and competition between probiotic and pathogenic urinary tract bacteria to help explore the usage of probiotics as an alternative treatment for urinary tract infection. Armed with a flair for the dramatic and a passion for science, Josh is eager to both research and communicate evolution and microbiology.
+
+:::

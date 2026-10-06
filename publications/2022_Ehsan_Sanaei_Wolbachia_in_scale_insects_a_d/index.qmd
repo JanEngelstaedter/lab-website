@@ -1,0 +1,16 @@
+---
+title: "Wolbachia in scale insects: a distinct pattern of infection frequencies and potential transfer routes via ant associates"
+date: 2022-01-01
+author: ["Ehsan Sanaei", "Yen-Po Lin", "Lyn G. Cook", "Jan Engelstädter"]
+publication: "Environmental Microbiology, **24**, _1326--1339_ (2022)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1111/1462-2920.15833
+url_preprint: 
+journ: "Environmental Microbiology"
+volume: 24
+issue: 3
+page: 1326--1339
+year: 2022
+image: featured.png  # photo: Alex Wild, CC0 (public domain), via Wikimedia Commons
+pub_number: 65
+---

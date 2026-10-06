@@ -1,0 +1,16 @@
+---
+title: "Pathogen evolution in switching environments: a hybrid dynamical system approach"
+date: 2012-01-01
+author: ["József Z. Farkas", "Peter Hinow", "Jan Engelstädter"]
+publication: "Mathematical Biosciences, **240**, _70--75_ (2012)."
+categories: [""]
+url_source: https://doi.org/10.1016/j.mbs.2012.06.004
+url_preprint: 
+journ: "Mathematical Biosciences"
+volume: 240
+issue: 1
+page: 70--75
+year: 2012
+#image: featured.gif
+pub_number: 31
+---

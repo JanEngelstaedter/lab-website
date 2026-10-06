@@ -1,0 +1,12 @@
+---
+title: Research
+listing:
+  id: research
+  type: grid
+  sort: order
+page-layout: full
+---
+
+Our research currently focuses on the three topics listed below, in particular antibiotic resistance. We also collaborate extensively with [Andrew Letten's lab](https://andrewletten.net/) (e.g., on species coexistence under resource fluctuations) and [Daniel Ortiz-Barrientos' lab](https://www.ortizbarrientoslab.org/) (on the genomics of adaptation and speciation in the Australian wildflower *Senecio lautus*). In the past, we have also worked on the evolution of sex and recombination in animals and on sex chromosome evolution.
+
+Our research is very quantitatively oriented, often involving mathematical models and computer simulations. We strive for research that is ethical and highly reproducible.

@@ -1,0 +1,16 @@
+---
+title: "Strong genotype-by-genotype and genotype-by-environment interactions induced by antibiotic resistance mutations"
+date: 2025-01-01
+author: ["Alicia H. Williams", "Ian Gooi", "Madelaine Boggan", "Ziqing Liu", "Andrew D. Letten", "Jan Engelstädter"]
+publication: "bioRxiv, _year: 2025_ (2025)."
+categories: ["group", "AMR"]
+url_source:
+url_preprint: https://doi.org/10.64898/2025.12.03.692229
+journ: "bioRxiv"
+volume:
+issue:
+page:
+year: 2025
+image: featured.png
+pub_number: 78
+---

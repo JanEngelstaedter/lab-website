@@ -1,0 +1,16 @@
+---
+title: "The effect of bacterial recombination on adaptation on fitness landscapes with limited peak accessibility"
+date: 2012-01-01
+author: ["Danesh Moradigaravand", "Jan Engelstädter"]
+publication: "PLOS Computational biology, **8**, _e1002735_ (2012)."
+categories: [""]
+url_source: https://doi.org/10.1371/journal.pcbi.1002735
+url_preprint: 
+journ: "PLOS Computational biology"
+volume: 8
+issue: 10
+page: e1002735
+year: 2012
+#image: featured.gif
+pub_number: 28
+---

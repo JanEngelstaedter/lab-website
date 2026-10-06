@@ -1,0 +1,16 @@
+---
+title: "Drug mode of action and resource constraints modulate antimicrobial resistance evolution"
+date: 2026-01-01
+author: ["Oscar Delaney", "Christopher R. P. Brown", "Andrew D. Letten", "Jan Engelstädter"]
+publication: "Journal of Theoretical Biology, **618**, _112316_ (2026)."
+categories: ["group", "AMR"]
+url_source: https://doi.org/10.1016/j.jtbi.2025.112316
+url_preprint: https://doi.org/10.1101/2023.08.29.555413
+journ: "Journal of Theoretical Biology"
+volume: 618
+issue: 
+page: 112316
+year: 2026
+#image: featured.gif
+pub_number: 80
+---

@@ -1,0 +1,16 @@
+---
+title: "Classic reaction kinetics can explain complex patterns of antibiotic action"
+date: 2015-01-01
+author: ["Pia Abel Zur Wiesch", "Sören Abel", "Spyridon Gkotzis", "Paolo Ocampo", "Jan Engelstädter", "Trevor Hinkley", "Carsten Magnus", "Matthew K. Waldor", "Klas Udekwu", "Ted Cohen"]
+publication: "Science Translational Medicine, **7**, _287ra73_ (2015)."
+categories: ["group"]
+url_source: https://doi.org/10.1126/scitranslmed.aaa8760
+url_preprint: 
+journ: "Science Translational Medicine"
+volume: 7
+issue: 287
+page: 287ra73
+year: 2015
+#image: featured.gif
+pub_number: 42
+---

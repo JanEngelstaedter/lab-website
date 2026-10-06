@@ -1,0 +1,16 @@
+---
+title: "The effective size of populations infected with cytoplasmic sex-ratio distorters"
+date: 2010-01-01
+author: ["Jan Engelstädter"]
+publication: "Genetics, **186**, _309--320_ (2010)."
+categories: [""]
+url_source: https://doi.org/10.1534/genetics.110.120014
+url_preprint: 
+journ: "Genetics"
+volume: 186
+issue: 1
+page: 309--320
+year: 2010
+#image: featured.gif
+pub_number: 22
+---

@@ -1,0 +1,16 @@
+---
+title: "Evolution and evolvability of rifampicin resistance across the bacterial tree of life"
+date: 2025-01-01
+author: ["Negin Bolourchi", "Christopher R. P. Brown", "Andrew D. Letten", "Jan Engelstädter"]
+publication: "Proceedings of the National Academy of Sciences, **122**, _e2424307122_ (2025)."
+categories: ["AMR", "group"]
+url_source: https://www.pnas.org/doi/abs/10.1073/pnas.2424307122
+url_preprint: 
+journ: "Proceedings of the National Academy of Sciences"
+volume: 122
+issue: 31
+page: e2424307122
+year: 2025
+image: featured.png
+pub_number: 75
+---

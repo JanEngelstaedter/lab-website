@@ -1,0 +1,43 @@
+---
+title: "People"
+listing:
+  - id: current
+    exclude:
+      people_group: "alumni"
+    template: ../_ejs/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+  - id: alumni
+    include: 
+      people_group: "alumni"
+    exclude:
+      external: true
+    template: ../_ejs/alumni-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education, altsubtitle, alteducation]
+page-layout: full
+toc: false
+---
+
+## Current lab members
+
+::: {#current}
+:::
+
+## Co-supervised PhD students
+
+- Christopher Brown (primary supervisor: [Andrew Letten](https://andrewletten.net/))
+- Kathleen McLay (primary supervisor: [Daniel Ortiz-Barrientos](https://www.ortizbarrientoslab.org/))
+- Vishwa Patel (primary supervisor: [Andrew Letten](https://andrewletten.net/))
+- Jack Price (primary supervisor: [Daniel Ortiz-Barrientos](https://www.ortizbarrientoslab.org/))
+- James Richardson (primary supervisor: [Andrew Letten](https://andrewletten.net/))
+- Yulin Sun (primary supervisor: [Daniel Ortiz-Barrientos](https://www.ortizbarrientoslab.org/))
+- Tim Temizyurek (primary supervisor: Simon Hart)
+- Yu-Pei Tseng (primary supervisor: [Andrew Letten](https://andrewletten.net/))
+
+## Alumni
+
+::: {#alumni}
+:::

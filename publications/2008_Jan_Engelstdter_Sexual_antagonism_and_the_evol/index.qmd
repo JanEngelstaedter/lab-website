@@ -1,0 +1,16 @@
+---
+title: "Sexual antagonism and the evolution of X chromosome inactivation"
+date: 2008-01-01
+author: ["Jan Engelstädter", "David Haig"]
+publication: "Evolution; International Journal of Organic Evolution, **62**, _2097--2104_ (2008)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1558-5646.2008.00431.x
+url_preprint: 
+journ: "Evolution; International Journal of Organic Evolution"
+volume: 62
+issue: 8
+page: 2097--2104
+year: 2008
+#image: featured.gif
+pub_number: 14
+---

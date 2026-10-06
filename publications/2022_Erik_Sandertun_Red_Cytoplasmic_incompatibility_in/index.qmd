@@ -1,0 +1,16 @@
+---
+title: "Cytoplasmic incompatibility in hybrid zones: infection dynamics and resistance evolution"
+date: 2022-01-01
+author: ["Erik Sandertun Røed", "Jan Engelstädter"]
+publication: "Journal of Evolutionary Biology, **35**, _240--253_ (2022)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1111/jeb.13974
+url_preprint: 
+journ: "Journal of Evolutionary Biology"
+volume: 35
+issue: 2
+page: 240--253
+year: 2022
+image: featured.png
+pub_number: 64
+---

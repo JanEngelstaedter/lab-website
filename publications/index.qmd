@@ -1,0 +1,24 @@
+---
+title: "Publications"
+alias: &ALIAS group
+listing:
+  - id: pubs
+    template: ../_ejs/publications.ejs
+    contents: ../publications/**/*.qmd
+    sort: "pub_number desc"
+    page-size: 30
+    filter-ui: true
+    include:
+      categories: *ALIAS
+    fields: [image, title, publication, author, url_source]
+    image-height: 12px
+page-layout: full
+---
+
+Our publications since 2013. For a complete list, including earlier papers, see [Jan's Google Scholar profile](https://scholar.google.com/citations?user=sOfcm2QAAAAJ&hl=en).
+
+:::{#pubs}
+:::
+
+
+

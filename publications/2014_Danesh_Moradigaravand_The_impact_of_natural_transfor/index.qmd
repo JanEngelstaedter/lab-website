@@ -1,0 +1,16 @@
+---
+title: "The impact of natural transformation on adaptation in spatially structured bacterial populations"
+date: 2014-01-01
+author: ["Danesh Moradigaravand", "Jan Engelstädter"]
+publication: "BMC evolutionary biology, **14**, _141_ (2014)."
+categories: ["group", "recombination"]
+url_source: https://doi.org/10.1186/1471-2148-14-141
+url_preprint: 
+journ: "BMC evolutionary biology"
+volume: 14
+issue: 
+page: 141
+year: 2014
+#image: featured.gif
+pub_number: 38
+---

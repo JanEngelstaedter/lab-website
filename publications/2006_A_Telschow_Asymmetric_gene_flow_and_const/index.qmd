@@ -1,0 +1,16 @@
+---
+title: "Asymmetric gene flow and constraints on adaptation caused by sex ratio distorters"
+date: 2006-01-01
+author: ["A. Telschow", "Jan Engelstädter", "N. Yamamura", "P. Hammerstein", "G.D.D. Hurst"]
+publication: "Journal of Evolutionary Biology, **19**, _869--878_ (2006)."
+categories: [""]
+url_source: https://doi.org/10.1111/j.1420-9101.2005.01049.x
+url_preprint:
+journ: "Journal of Evolutionary Biology"
+volume: 19
+issue: 3
+page: 869--878
+year: 2006
+#image: featured.gif
+pub_number: 6
+---

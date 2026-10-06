@@ -1,0 +1,27 @@
+---
+title: Host-parasite coevolution
+alias: &ALIAS coevolution
+order: 2
+image: featured.png  # figure from Engelstädter & Fortuna (2019)
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+
+Parasites and their hosts are locked in an ongoing evolutionary arms race, often referred to as 'Red Queen' dynamics. Moreover, many parasites are not confined to a single host species but regularly jump from their original to a new host species. Our research combines mathematical models, computer simulations, surveys of natural infections and bioinformatics to better understand such coevolutionary dynamics both at the single- and multi-host levels. A particular focus has been on *Wolbachia*, an intracellular, maternally inherited bacterium infecting about 50% of arthropod species and manipulating the reproduction of its hosts in many fascinating ways.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

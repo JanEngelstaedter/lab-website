@@ -1,0 +1,16 @@
+---
+title: "Conspecific Gamete Precedence in Speciation: History, Evidence, and a Research Roadmap"
+date: 2026-01-01
+author: ["Henry Arenas-Castro", "Jan Engelstädter", "Rhonda Snook", "Loren Rieseberg", "Daniel Ortiz-Barrientos"]
+publication: "EcoEvoRxiv, _year: 2026_ (2026)."
+categories: ["group"]
+url_source:
+url_preprint: https://doi.org/10.32942/x2wq2p
+journ: "EcoEvoRxiv"
+volume:
+issue:
+page:
+year: 2026
+#image: featured.gif
+pub_number: 83
+---

@@ -1,0 +1,39 @@
+---
+title: &TITLE Andrew Tuck
+last: Tuck
+first: Andrew
+people_group: "professional"
+email: "a.tuck@uq.edu.au"
+subtitle: "Lab manager"
+description: ""
+affiliation: The University of Queensland
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: 
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:a.tuck@uq.edu.au 
+---
+
+:::{#about}
+
+Andrew started his career in Science late in life, after reading and studying fields including nutrition, disease and ageing for several years. After obtaining a First-Class Honours Degree in Biochemistry, he has worked at various capacities across the Queensland Brain Institute, the Institute of Molecular Biosciences, and the School of Biological Sciences. For several years, he worked on the issue of the genetics of resistance to the fumigant gas phosphine in Paul Ebert’s lab in the School of Biological Sciences, where he helped to characterise resistance in the insect species Rhyzopertha dominica and Tribolium castaneum, as well as the model organism Caenorhabditis elegans. During this time, he acquired the skills of Lab Management and Workplace Health and Safety, as well as helping to supervise and train over 28 PhD, Master’s and Honour’s students.
+
+:::

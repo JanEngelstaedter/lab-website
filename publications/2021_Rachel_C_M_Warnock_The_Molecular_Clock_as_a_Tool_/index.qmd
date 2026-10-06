@@ -1,0 +1,16 @@
+---
+title: "The Molecular Clock as a Tool for Understanding Host-Parasite Evolution"
+date: 2021-01-01
+author: ["Rachel C. M. Warnock", "Jan Engelstädter"]
+publication: "The Evolution and Fossil Record of Parasitism (Topics in Geobiology), _417--450_ (2021)."
+categories: ["group", "coevolution"]
+url_source: https://doi.org/10.1007/978-3-030-52233-9_13
+url_preprint:
+journ: "The Evolution and Fossil Record of Parasitism (Topics in Geobiology)"
+volume:
+issue:
+page: 417--450
+year: 2021
+#image: featured.gif
+pub_number: 61
+---

@@ -1,0 +1,16 @@
+---
+title: "Mod/Resc Parsimony Inference: Theory and application"
+date: 2012-01-01
+author: ["Igor Nor", "Danny Hermelin", "Sylvain Charlat", "Jan Engelstädter", "Max Reuter", "Olivier Duron", "Marie-France Sagot"]
+publication: "Information and Computation, **213**, _23--32_ (2012)."
+categories: [""]
+url_source: https://doi.org/10.1016/j.ic.2011.03.008
+url_preprint:
+journ: "Information and Computation"
+volume: 213
+issue:
+page: 23--32
+year: 2012
+#image: featured.gif
+pub_number: 33
+---

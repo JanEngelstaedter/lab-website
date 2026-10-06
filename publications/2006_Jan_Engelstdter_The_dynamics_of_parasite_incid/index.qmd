@@ -1,0 +1,16 @@
+---
+title: "The dynamics of parasite incidence across host species"
+date: 2006-01-01
+author: ["Jan Engelstädter", "Gregory D. D. Hurst"]
+publication: "Evolutionary Ecology, **20**, _603--616_ (2006)."
+categories: [""]
+url_source: https://doi.org/10.1007/s10682-006-9120-1
+url_preprint:
+journ: "Evolutionary Ecology"
+volume: 20
+issue: 6
+page: 603--616
+year: 2006
+#image: featured.gif
+pub_number: 8
+---

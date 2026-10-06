@@ -1,0 +1,16 @@
+---
+title: "The genetic architecture of polygenic adaptation under a network-derived trait"
+date: 2025-01-01
+author: ["Nicholas L. V. O’Brien", "Barbara Holland", "Jan Engelstädter", "Daniel Ortiz-Barrientos"]
+publication: "bioRxiv, _year: 2025_ (2025)."
+categories: ["group"]
+url_source:
+url_preprint: https://doi.org/10.1101/2025.02.20.639381
+journ: "bioRxiv"
+volume:
+issue:
+page:
+year: 2025
+#image: featured.gif
+pub_number: 79
+---

@@ -1,0 +1,16 @@
+---
+title: "Competing selfish genetic elements in the butterfly Hypolimnas bolina"
+date: 2006-01-01
+author: ["Sylvain Charlat", "Jan Engelstädter", "Emily A. Dyson", "Emily A. Hornett", "Anne Duplouy", "Pablo Tortosa", "Neil Davies", "George K. Roderick", "Nina Wedell", "Gregory D. D. Hurst"]
+publication: "Current biology, **16**, _2453--2458_ (2006)."
+categories: [""]
+url_source: https://doi.org/10.1016/j.cub.2006.10.062
+url_preprint: 
+journ: "Current biology"
+volume: 16
+issue: 24
+page: 2453--2458
+year: 2006
+#image: featured.gif
+pub_number: 3
+---

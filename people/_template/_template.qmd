@@ -1,0 +1,41 @@
+---
+# To add a person: copy this folder to people/<lastname>_<firstname>/,
+# rename this file to index.qmd and replace Missing_avatar.jpg with a
+# square photo named avatar.jpg.
+title: "First Last"            # name as displayed on the site
+last: "Last"                   # used to sort the People page alphabetically
+first: "First"
+people_group: phd              # one of: pi, professional, postdoc, phd, masters, honours, alumni
+                               # (only "alumni" changes where the card appears)
+email: "first.last@uq.edu.au"
+subtitle: "PhD Student"        # role shown on the card, e.g. "Honours Student", "Lab Manager"
+description: ""
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: "First Last"       # name exactly as it appears on papers
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:                       # remove this block if there's no email address
+    - icon: envelope
+      text: Email
+      href: mailto:first.last@uq.edu.au
+---
+
+:::{#about}
+
+A short bio, written in the first or third person.
+
+:::
