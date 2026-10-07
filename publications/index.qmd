@@ -1,5 +1,8 @@
 ---
 title: "Publications"
+aliases:
+  - ../publications-by-year/index.html  # old WordPress addresses
+  - ../by-topic/index.html
 alias: &ALIAS group
 listing:
   - id: pubs

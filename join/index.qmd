@@ -1,5 +1,7 @@
 ---
 title: "Join our lab!"
+aliases:
+  - ../people/prospective-member/index.html  # old WordPress address
 ---
 
 ## PhD students

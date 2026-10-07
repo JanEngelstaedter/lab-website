@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - CNAME  # custom domain for GitHub Pages; must be copied into every build
   render:
     - "*.qmd"
     - "!publications/_template/"
@@ -9,8 +11,7 @@ project:
 website:
   title: "Engelstädter Lab"
   description: "Microbial evolutionary dynamics: the Engelstädter Lab at The University of Queensland, Brisbane, Australia."
-  # Temporary address until engelstaedterlab.org points to GitHub Pages
-  site-url: "https://janengelstaedter.github.io/lab-website/"
+  site-url: "https://engelstaedterlab.org/"
   repo-url: "https://github.com/JanEngelstaedter/lab-website"
   favicon: images/favicon.png  # generated from images/favicon.svg
   # google-analytics: ""  # old ID belonged to the Masiello Group
