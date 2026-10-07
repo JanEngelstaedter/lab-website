@@ -1,1 +1,1 @@
-Sitemap: https://janengelstaedter.github.io/lab-website/sitemap.xml
+Sitemap: https://engelstaedterlab.org/sitemap.xml
