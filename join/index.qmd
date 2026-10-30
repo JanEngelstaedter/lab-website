@@ -1,5 +1,6 @@
 ---
 title: "Join our lab!"
+toc: false
 aliases:
   - ../people/prospective-member/index.html  # old WordPress address
 ---

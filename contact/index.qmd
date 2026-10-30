@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+toc: false
 about: 
   id: contact
   template: solana
